@@ -15,6 +15,12 @@
 
 下面是原仓库的README
 
+<div align="center">
+  <img src="https://hzpt-inet-club.github.io/english-note/logo/logo.svg">
+</div>
+
+<h1 align="center">英语语法笔记</h1>
+
 ## 背景
 
 这个项目由 [xiaoxunyao](https://github.com/xiaoxunyao) 提出，并且大量文本编辑的工作由他负责查阅资料和整理资料完成。在这个社会学会英语对于每位程序员的帮助都是有重大意义的，所以 [INet](https://github.com/hzpt-inet-club) 社区开始着手编写语法笔记，争取将复杂困难的语法知识点掰碎了告诉大家。
@@ -45,6 +51,7 @@
 1. 下载到本地
 
 ```shell
+
 git clone https://github.com/hzpt-inet-club/english-note.git
 ```
 
