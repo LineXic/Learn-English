@@ -83,3 +83,5 @@
 接下来就是比较官方的说法了。
 
 <img src="https://en.linexic.top/guide/sentence/16.png">
+
+下一篇:[一定要知道的五大句型](https://en.linexic.top/#/guide/grammar)
