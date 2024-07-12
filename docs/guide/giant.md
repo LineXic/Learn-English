@@ -73,3 +73,6 @@
 只说 made me，让我，也是不完整的，总得让我怎么着了吧，因此，我们就得带上个 补语 ，来说 宾语me 怎么着了。这5个句型，同学们不用死记。每个句型的拿手好戏不一样，构造自然也跟着不一样。
 
 <img src="https://en.linexic.top/guide/giant/16.png">
+
+下一篇:
+[花心的副词](https://en.linexic.top/#/guide/adverb)
