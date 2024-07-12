@@ -78,3 +78,6 @@ perfect，superb，excellent，sublime
 我们的口号是！
 
 <img src="https://en.linexic.top/guide/compare/14.png">
+
+下一篇:
+[形容词的名词关系](https://en.linexic.top/#/guide/adjectiveToNoun)
