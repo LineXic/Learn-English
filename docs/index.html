@@ -7,9 +7,9 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="/assets/css/vue.css">
-  <link rel="icon" href="/favicon.ico">
-  
-<script>
+  <link rel="icon" href="favicon.ico">
+
+  <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
@@ -18,14 +18,21 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-
 </head>
 <body>
-<div id="app">加载中。。</div>
+<div id="app"></div>
 <script>
-     
+    var gitalkConfig = {
+      clientID: '4a657aa4ae6c0f1862a1',
+      clientSecret: '94793d5bac0c884a8798ea941f7c5bc9fb004720',
+      repo: 'fuzhengwei.github.io',
+      owner: 'fuzhengwei',
+      admin: ["fuzhengwei"],
+      distractionFreeMode: false
+    };
     window.$docsify = {
       name: '英语笔记',
+      repo: 'https://github.com/fuzhengwei/fuzhengwei.github.io',
       auto2top: true,
       coverpage: true,
       loadSidebar: true,
@@ -34,16 +41,15 @@ var _hmt = _hmt || [];
       search: {
         paths: 'auto',
         placeholder: '🔍 搜索一下 ',
-        noData: '😞 没有任何结果! ',
+        noData: '😞 什么也没有！ ',
         depth: 6
       },
       pagination: {
-        previousText: '上一页',
-        nextText: '下一页',
+        previousText: 'PREVIOUS',
+        nextText: 'NEXT',
         crossChapter: true
       },
       plugins: [
-        
         function (hook, vm) {
           hook.doneEach(function() {
             var label, domObj, main, divEle, gitalk;
@@ -81,10 +87,5 @@ var _hmt = _hmt || [];
 <script src="/assets/js/zoom-image.js"></script>
 <script src="/assets/js/prism-bash.js"></script>
 <script src="/assets/js/prism-java.min.js"></script>
-  <!-- 复制到剪切板 -->
-<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
-<!-- 回到顶部功能 -->
-<script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
-</html>
+<html>
