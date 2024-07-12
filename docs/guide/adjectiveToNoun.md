@@ -119,6 +119,7 @@ Girls brave enough to pursue their dreams deserve to be loved.
 
 <img src="https://en.linexic.top/guide/adjectiveToNoun/13.png">
 
-[这是链接]()
+            <p style="text-align: right; ">承挨博客</p>
+            <p style="text-align: right; ">日期：2024年6月7日</p>
 
            
