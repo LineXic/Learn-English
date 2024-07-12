@@ -116,3 +116,6 @@ only/ merely/ also/ especially/ even/ particularly/ utterly/ almost/ surely 等�
 我们总结出解决这类问题的三步骤
 
 <img src="https://en.linexic.top/guide/adverb/20.png">
+
+下一篇:
+[一定要知道的五大句型](https://en.linexic.top/#/guide/grammar)
