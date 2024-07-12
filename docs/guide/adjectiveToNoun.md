@@ -119,6 +119,6 @@ Girls brave enough to pursue their dreams deserve to be loved.
 
 <img src="https://en.linexic.top/guide/adjectiveToNoun/13.png">
 
-下一篇
+下一篇:
 [八大句子成分](https://en.linexic.top/#/guide/sentence)
            
