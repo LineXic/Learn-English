@@ -52,7 +52,7 @@ my cute girlFriend
 
 描绘形容词：表示事物本身的特征
 
-<img src="[/adjectiveToNoun/7.png](https://en.linexic.top/guide/adjectiveToNoun/7.png)">
+<img src="https://en.linexic.top/guide/adjectiveToNoun/7.png">
 
 描绘 形容词 那么多，
 还是会争个先后，
